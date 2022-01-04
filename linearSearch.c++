@@ -1,3 +1,4 @@
+// code of Linear search
 #include <iostream>
 using namespace std;
 
